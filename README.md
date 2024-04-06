@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stilln0thing
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me ...
 
 <!---
