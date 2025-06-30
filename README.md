@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Airline Booking System**
 
-- 🌱 I’m currently learning **Nodejs, React**
+- 🌱 I’m currently learning **Golang, Kubernetes, Helm**
 
 - 📫 How to reach me **amittalqaz@gmail.com**
 
