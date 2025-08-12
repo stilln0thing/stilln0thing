@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/atharvmittal9" target="blank"><img src="https://img.shields.io/twitter/follow/atharvmittal9?logo=twitter&style=for-the-badge" alt="atharvmittal9" /></a> </p>
 
-- 🔭 I’m currently working on **Airline Booking System**
+- 🔭 I’m currently working on **AI Mock Interview Platform**
 
 - 🌱 I’m currently learning **Golang, Kubernetes, Helm**
 
